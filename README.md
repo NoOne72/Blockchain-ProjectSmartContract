@@ -4,6 +4,7 @@
 Selamat Malam Ibu Hafara dan Mas Bhisma yang kami hormati, disini kami dari kelompok yanng sudah demo smart contract pada pertemuan tanggal 17 April 2026, untuk daftar nama dan NRP masih mengusahakan mencari teman teman kelompok dari depart lain dan repo akan diupdate secara berkala. Terima Kasih 
 
 | No | Nama | NRP |
+| :---: | :--- | :--- |
 | 1 | Muhammad Nafi Firdaus | 5027231045 |
 | 2 | Michael Kenneth Salim | 5027231008 |
 ```
